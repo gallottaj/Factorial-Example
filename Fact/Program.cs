@@ -15,7 +15,6 @@ namespace Fact
             Console.WriteLine(factorial(startingNumber));
             Console.ReadLine();
         }
-
         static int factorial (int x)
         {
             Console.WriteLine("X = " + x);
